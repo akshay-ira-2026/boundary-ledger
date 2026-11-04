@@ -1,0 +1,27 @@
+test_authority_all_cases (test_boundary.BoundaryTests.test_authority_all_cases) ... ok
+test_bool_not_integer (test_boundary.BoundaryTests.test_bool_not_integer) ... ok
+test_canary_not_leaked (test_boundary.BoundaryTests.test_canary_not_leaked) ... ok
+test_capability_not_permission_for_all_targets (test_boundary.BoundaryTests.test_capability_not_permission_for_all_targets) ... ok
+test_denied_does_not_spend_authority (test_boundary.BoundaryTests.test_denied_does_not_spend_authority) ... ok
+test_effect_is_copy (test_boundary.BoundaryTests.test_effect_is_copy) ... ok
+test_fields_bound (test_boundary.BoundaryTests.test_fields_bound) ... ok
+test_float_not_minor_units (test_boundary.BoundaryTests.test_float_not_minor_units) ... ok
+test_generated_uniqueness (test_boundary.BoundaryTests.test_generated_uniqueness) ... ok
+test_key_order_irrelevant (test_boundary.BoundaryTests.test_key_order_irrelevant) ... ok
+test_missing_fields (test_boundary.BoundaryTests.test_missing_fields) ... ok
+test_model_view_has_no_labels (test_boundary.BoundaryTests.test_model_view_has_no_labels) ... ok
+test_negative_amount (test_boundary.BoundaryTests.test_negative_amount) ... ok
+test_nested_action (test_boundary.BoundaryTests.test_nested_action) ... ok
+test_nondict (test_boundary.BoundaryTests.test_nondict) ... ok
+test_positive_and_negative_controls (test_boundary.BoundaryTests.test_positive_and_negative_controls) ... ok
+test_replay_consumed (test_boundary.BoundaryTests.test_replay_consumed) ... ok
+test_replay_oracle_independent_of_gate (test_boundary.BoundaryTests.test_replay_oracle_independent_of_gate) ... ok
+test_text_does_not_issue_capability (test_boundary.BoundaryTests.test_text_does_not_issue_capability) ... ok
+test_unknown_field (test_boundary.BoundaryTests.test_unknown_field) ... ok
+test_unknown_operation (test_boundary.BoundaryTests.test_unknown_operation) ... ok
+test_valid_schema (test_boundary.BoundaryTests.test_valid_schema) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.009s
+
+OK

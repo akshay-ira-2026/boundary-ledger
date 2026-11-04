@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-11-04T17:01:25.130409+00:00",
+  "phase": "pre-sprint harness smoke test; NOT weekend research",
+  "agent": "scripted-vulnerable-v1",
+  "model_claims": false,
+  "episodes": 480,
+  "defences": [
+    "unguarded",
+    "keyword",
+    "schema",
+    "authority",
+    "deny_all"
+  ],
+  "fixture_sha256": "63a182c93cc6b6006b25f67c776ef0d99b0d88d9577e1f262029d8da6cc05049",
+  "responses_sha256": null,
+  "note": "Counts measure this synthetic simulator, not real agent safety. Repeated template variants are correlated; Wilson intervals are descriptive only."
+}
